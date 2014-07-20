@@ -1,0 +1,89 @@
+{
+    "suppliers": [
+        {
+            "id": 1,
+            "name": "supplier_1",
+            "products": [1, 10, 31]
+        },
+        {
+            "id": 2,
+            "name": "supplier_2",
+            "products": [2, 14, 28, 30, 35]
+        },
+        {
+            "id": 3,
+            "name": "supplier_3",
+            "products": [4, 7, 16, 21, 27, 32]
+        },
+        {
+            "id": 4,
+            "name": "supplier_4",
+            "products": [2, 9, 13, 23]
+        },
+        {
+            "id": 5,
+            "name": "supplier_5",
+            "products": [6, 28]
+        },
+        {
+            "id": 6,
+            "name": "supplier_6",
+            "products": [3, 12, 15, 18, 33, 34]
+        },
+        {
+            "id": 7,
+            "name": "supplier_7",
+            "products": [7, 14, 22, 25, 33]
+        },
+        {
+            "id": 8,
+            "name": "supplier_8",
+            "products": [5, 14, 17, 24, 28, 30, 35]
+        },
+        {
+            "id": 9,
+            "name": "supplier_9",
+            "products": [6, 7, 10, 21, 24, 28]
+        },
+        {
+            "id": 10,
+            "name": "supplier_10",
+            "products": [8, 15, 26, 27]
+        },
+        {
+            "id": 11,
+            "name": "supplier_11",
+            "products": [4, 12, 18, 20, 32, 35]
+        },
+        {
+            "id": 12,
+            "name": "supplier_12",
+            "products": [3, 9, 16, 22]
+        },
+        {
+            "id": 13,
+            "name": "supplier_13",
+            "products": [11, 19, 33]
+        },
+        {
+            "id": 14,
+            "name": "supplier_14",
+            "products": [6, 14, 21, 26, 30]
+        },
+        {
+            "id": 15,
+            "name": "supplier_15",
+            "products": [12, 18, 27]
+        },
+        {
+            "id": 16,
+            "name": "supplier_16",
+            "products": [3, 9, 20, 21, 28, 35]
+        },
+        {
+            "id": 17,
+            "name": "supplier_17",
+            "products": [8, 9, 15, 24, 34]
+        }
+    ]
+}

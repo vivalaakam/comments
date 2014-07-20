@@ -1,0 +1,179 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "product_1",
+            "suppliers": ["1"]
+        },
+        {
+            "id": "2",
+            "name": "product_2",
+            "suppliers": ["2", "4"]
+        },
+        {
+            "id": "3",
+            "name": "product_3",
+            "suppliers": ["6", "12", "16"]
+        },
+        {
+            "id": "4",
+            "name": "product_4",
+            "suppliers": ["3", "11"]
+        },
+        {
+            "id": "5",
+            "name": "product_5",
+            "suppliers": ["8"]
+        },
+        {
+            "id": "6",
+            "name": "product_6",
+            "suppliers": ["5", "9", "14"]
+        },
+        {
+            "id": "7",
+            "name": "product_7",
+            "suppliers": ["3", "7", "9", "17"]
+        },
+        {
+            "id": "8",
+            "name": "product_8",
+            "suppliers": ["10", "17"]
+        },
+        {
+            "id": "9",
+            "name": "product_9",
+            "suppliers": ["4", "12", "16"]
+        },
+        {
+            "id": "10",
+            "name": "product_10",
+            "suppliers": ["1", "9"]
+        },
+        {
+            "id": "11",
+            "name": "product_11",
+            "suppliers": ["13"]
+        },
+        {
+            "id": "12",
+            "name": "product_12",
+            "suppliers": ["6", "11", "15"]
+        },
+        {
+            "id": "13",
+            "name": "product_13",
+            "suppliers": ["4"]
+        },
+        {
+            "id": "14",
+            "name": "product_14",
+            "suppliers": ["2", "7", "8", "14"]
+        },
+        {
+            "id": "15",
+            "name": "product_15",
+            "suppliers": ["6", "10", "17"]
+        },
+        {
+            "id": "16",
+            "name": "product_16",
+            "suppliers": ["3", "12"]
+        },
+        {
+            "id": "17",
+            "name": "product_17",
+            "suppliers": ["8"]
+        },
+        {
+            "id": "18",
+            "name": "product_18",
+            "suppliers": ["6", "11", "15"]
+        },
+        {
+            "id": "19",
+            "name": "product_19",
+            "suppliers": ["13"]
+        },
+        {
+            "id": "20",
+            "name": "product_20",
+            "suppliers": ["11", "16"]
+        },
+        {
+            "id": "21",
+            "name": "product_21",
+            "suppliers": ["3", "9", "14", "16"]
+        },
+        {
+            "id": "22",
+            "name": "product_22",
+            "suppliers": ["7", "12"]
+        },
+        {
+            "id": "23",
+            "name": "product_23",
+            "suppliers": ["4"]
+        },
+        {
+            "id": "24",
+            "name": "product_24",
+            "suppliers": ["8", "9", "17"]
+        },
+        {
+            "id": "25",
+            "name": "product_25",
+            "suppliers": ["7"]
+        },
+        {
+            "id": "26",
+            "name": "product_26",
+            "suppliers": ["10", "14"]
+        },
+        {
+            "id": "27",
+            "name": "product_27",
+            "suppliers": ["3", "10", "15"]
+        },
+        {
+            "id": "28",
+            "name": "product_28",
+            "suppliers": ["2", "8", "9", "16"]
+        },
+        {
+            "id": "29",
+            "name": "product_29",
+            "suppliers": ["5"]
+        },
+        {
+            "id": "30",
+            "name": "product_30",
+            "suppliers": ["2", "8", "14"]
+        },
+        {
+            "id": "31",
+            "name": "product_31",
+            "suppliers": ["1"]
+        },
+        {
+            "id": "32",
+            "name": "product_32",
+            "suppliers": ["3", "11"]
+        },
+        {
+            "id": "33",
+            "name": "product_33",
+            "suppliers": ["6", "7", "13"]
+        },
+        {
+            "id": "34",
+            "name": "product_34",
+            "suppliers": ["6", "17"]
+        },
+        {
+            "id": "35",
+            "name": "product_35",
+            "suppliers": ["2", "8", "11", "16"]
+        }
+    ]
+}

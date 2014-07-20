@@ -1,0 +1,8 @@
+<div id="doc">
+    <div data-ng-repeat="row in doc" class="docs">
+        <div class="point">{{row.point}}</div>
+        <div class="doc" data-ng-bind-html="row.text">
+    </div>
+</div>
+
+<div id="message" contenteditable="true" data-editable2 data-ng-bind-html="text"></div>

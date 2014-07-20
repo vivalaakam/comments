@@ -1,0 +1,12 @@
+{
+    "login": "amakarov",
+    "role": "admin",
+    "name": "Макаров Андрей",
+    "password": "pass",
+    "modules": {
+        "module1": "auditor",
+        "module2": "unit",
+        "module3": "admin"
+
+    }
+}
